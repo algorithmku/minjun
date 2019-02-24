@@ -1,4 +1,4 @@
-# algorithm_supremejoon
+# algorithm_minjun
 알고리즘 스터디 김민준
 <br/><br/>
 
