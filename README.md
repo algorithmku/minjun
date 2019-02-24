@@ -116,6 +116,13 @@
 | 43-2 | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation/problem) |  | 
 | 44-1 | [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem) |  js | 
 | 44-2 | [Prime Dates](https://www.hackerrank.com/challenges/prime-date/problem) | java8 | 
+| 45-1 | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search/problem) |  |
+| 45-2 | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem) | C# |
+| 46-1 | [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem) | js |
+
+
+
+
 
 
  
